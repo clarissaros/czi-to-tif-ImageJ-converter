@@ -39,14 +39,14 @@ Select the macro that matches your number of channels:
 Your `.czi` files should be named consistently and sorted alphabetically. The macro will automatically assign suffixes based on file order.
 
 **Example:** If your folder contains:
-sample001.czi
-sample002.czi
-sample003.czi
+- sample001.czi
+- sample002.czi
+- sample003.czi
 
 With the 3-channel macro, you'll get:
-sample001_nuclei.tif
-sample002_channel2.tif
-sample003_channel3.tif
+- sample001_nuclei.tif
+- sample002_channel2.tif
+- sample003_channel3.tif
 
 
 ## ⚙️ Customization
