@@ -82,5 +82,5 @@ This macro:
 
 ## 📄 License
 
-MIT License
+MIT License © 2026 Clarissa Rosato
 
